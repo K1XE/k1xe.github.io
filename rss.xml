@@ -7,25 +7,23 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
-        <link>https://example.com/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <title>Kize Space</title>
+        <link>https://k1xe.github.io/</link>
+        <description>去寻找，更有意义的东西...</description>
         <generator>Hugo 0.147.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>kize0603@gmail.com (kize)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>kize0603@gmail.com (kize)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        <lastBuildDate>Sun, 27 Apr 2025 19:18:15 &#43;0800</lastBuildDate>
         
-        <lastBuildDate>Sun, 27 Apr 2025 17:41:19 &#43;0800</lastBuildDate>
-        
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://k1xe.github.io/rss.xml" />
         
         
     </channel>
