@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">K | Space</title>
     <subtitle type="html">去寻找，更有意义的东西</subtitle>
-    <updated>2025-04-29T00:02:27&#43;08:00</updated>
+    <updated>2025-04-30T21:59:34&#43;08:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -452,7 +452,7 @@ color: inherit;
             <title type="text">我的2024</title>
             <link rel="alternate" type="text/html" href="/mind/%E6%88%91%E7%9A%842024/" />
             <id>/mind/%E6%88%91%E7%9A%842024/</id>
-            <updated>2025-04-28T09:58:01&#43;08:00</updated>
+            <updated>2025-04-30T21:39:52&#43;08:00</updated>
             <published>2025-04-27T20:37:59&#43;08:00</published>
             <author>
                     <name>Kize</name>
